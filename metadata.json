@@ -1,0 +1,5 @@
+{
+  "name": "Caja Cuevas Savings Tracker",
+  "description": "An application to manage and track weekly savings deposits for the Cuevas family's savings fund. Each person commits to saving a fixed amount weekly, and this app tracks their deposits.",
+  "requestFramePermissions": []
+}
